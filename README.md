@@ -24,3 +24,4 @@ written in the CNN model code.
 
 6. This live stream feature is execlusively for the concerned authorities to keep a check on every individual enterring through the entrance in the respective building. In the live stram you can clearly see that the person is wearing a mask or not for the safety purpose in this pandamic.
 
+You can also look at the overall overview of our project in the file HackJaipur.pdf
