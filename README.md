@@ -11,9 +11,9 @@ In addition to the face detection system, the SafetyScan website provides detail
 2. Now for testing the live implementation of th CNN model made, open Detect_mask_video file(python file), import all the libraries 
 written in the CNN model code.
 
-3.Also download the dataset required to train this model using command line: python train_mask_detector.py --dataset dataset
+3.Also download the dataset required to train this model using command line: python train_mask_detector.py --dataset dataset.
 
-4.Now to execute the model on the website open the website by streamapp/templates/streamapp/home.html
+4.Now to execute the model on the website open the website by streamapp/templates/streamapp/home.html.
 
 5. This is the final prototype  made and ready to be implemented, it contains live stream on the security camera based on which the authorities can allow the access or not, also it has a full view dashboard that contains all the information related to Covind-19 such as live stats on the active cases of this pandamic and the current news, updates, related to the pandamic. It is a one stop solution for everyone - the authorities, and the users to be updated with each on the major happening around the world related to this pandamic.
 
